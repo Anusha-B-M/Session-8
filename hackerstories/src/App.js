@@ -1,6 +1,6 @@
 import { useState} from "react";
-import List from './components/List';
-import Search from './components/Search';
+import List from './session 8/components/List';
+import Search from './session 8/components/Search';
 
 const stories = [
   {
